@@ -83,3 +83,14 @@
 
 [qq1groupsvg]: https://img.shields.io/badge/QQ群1-25206533-ff73a3.svg
 [qq1group]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
+
+## 备注
+
+如果你要了解更多，可以直接看源码或者关注原作者的项目，喝水不忘挖井人，喜欢的可以打个星，欢迎不断扩展
+> 可以直接添加依赖库到工程中（AS），ES的只能复制了
+
+## 关于我的点滴
+
+简书：[小胖归来](http://www.jianshu.com/p/0a313554364b)
+
+CSDN：[奔跑的小虎](http://blog.csdn.net/wzgl708937822)
